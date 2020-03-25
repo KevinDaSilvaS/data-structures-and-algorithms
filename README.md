@@ -16,4 +16,10 @@ so i decide to concentrate the fonts,resources i find and include examples made 
     <li>Isidro is a teacher at São Paulo University and he has a playlist of data structures and sorting algorithms in his channel</li>
     <li>https://www.youtube.com/watch?v=tujIyo7cMds&list=PLjcmNukBom6_nyEVge9stJLdq-bAeDoWx</li>
   </ul>
+  
+  <li><h6>Patricia Jaques Maillard</h6></li>
+  <ul>
+    <li>Patricia Jaques Maillard is a teacher at Unisinos University and she has a playlist that includes data structures, sorting algorithms,time complexity and more</li>
+    <li>https://www.youtube.com/watch?v=_iQNxXmGIxQ&list=PLyODqi1zpnEFHrIlFafOXruUcJWXHrU2g</li>
+  </ul>
 </ul>
