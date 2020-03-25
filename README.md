@@ -10,4 +10,10 @@ so i decide to concentrate the fonts,resources i find and include examples made 
     all the classes are in portuguese brazil and they have a exclusive class just for data structures</li>
     <li>https://www.youtube.com/watch?v=y0B-vQI6Tiw&list=PLxI8Can9yAHf8k8LrUePyj0y3lLpigGcl</li>
   </ul>
+  
+  <li><h6>Professor Isidro</h6></li>
+  <ul>
+    <li>Isidro is a teracher at São Paulo University and he has a playlist of data structures and sorting algorithms in his channel</li>
+    <li>https://www.youtube.com/watch?v=tujIyo7cMds&list=PLjcmNukBom6_nyEVge9stJLdq-bAeDoWx</li>
+  </ul>
 </ul>
