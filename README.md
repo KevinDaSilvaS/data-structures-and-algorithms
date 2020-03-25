@@ -22,4 +22,10 @@ so i decide to concentrate the fonts,resources i find and include examples made 
     <li>Patricia Jaques Maillard is a teacher at Unisinos University and she has a playlist that includes data structures, sorting algorithms,time complexity and more</li>
     <li>https://www.youtube.com/watch?v=_iQNxXmGIxQ&list=PLyODqi1zpnEFHrIlFafOXruUcJWXHrU2g</li>
   </ul>
+  
+  <li><h6>Ygor Amaral</h6></li>
+  <ul>
+    <li>Ygor has an excellent playlist about sorting algoithms in his youtube channel and the examples are in python what makes the comprehension easier</li>
+    <li>https://www.youtube.com/watch?v=kbrN461jmhY&list=PLS_pKInUulqNChDCRu_QmjXX4s-WYGqzw</li>
+  </ul>
 </ul>
