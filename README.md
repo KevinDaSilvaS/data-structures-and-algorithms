@@ -25,7 +25,16 @@ so i decide to concentrate the fonts,resources i find and include examples made 
   
   <li><h6>Ygor Amaral</h6></li>
   <ul>
-    <li>Ygor has an excellent playlist about sorting algoithms in his youtube channel and the examples are in python what makes the comprehension easier</li>
+    <li>Ygor has an excellent playlist about sorting algorithms in his youtube channel and the examples are in python what makes the comprehension easier</li>
     <li>https://www.youtube.com/watch?v=kbrN461jmhY&list=PLS_pKInUulqNChDCRu_QmjXX4s-WYGqzw</li>
+  </ul>
+  
+  <li><h6>Geeks for Geeks</h6></li>
+  <ul>
+    <li>the only one on the list tha didn´t speaks portuguese,but they explain things with clear animations that makes everything easier</li>
+    <li>Sorting Algorithms</li>
+    <li>https://www.youtube.com/watch?v=MtQL_ll5KhQ&list=PLqM7alHXFySHrGIxeBOo4-mKO4H8j2knW</li>
+    <li>They have a good video of redblack trees too</li>
+    <li>https://www.youtube.com/watch?v=YCo2-H2CL6Q</li>
   </ul>
 </ul>
