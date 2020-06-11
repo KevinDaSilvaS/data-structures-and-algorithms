@@ -13,7 +13,7 @@ so i decide to concentrate the fonts,resources i find and include examples made 
   
   <li><h6>Professor Isidro</h6></li>
   <ul>
-    <li>Isidro is a teacher at São Paulo University and he has a playlist of data structures and sorting algorithms in his channel</li>
+    <li>Isidro is a teacher at ABC Federal University and he has a playlist of data structures and sorting algorithms in his channel</li>
     <li>https://www.youtube.com/watch?v=tujIyo7cMds&list=PLjcmNukBom6_nyEVge9stJLdq-bAeDoWx</li>
   </ul>
   
